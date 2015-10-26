@@ -54,6 +54,10 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Redo                     | Ctrl+Y |
 | Find                     | Ctrl+F |
 | Find in Files            | Ctrl+Shift+F |
+| Find Next                | F3 |
+| Find Next Selected       | Ctrl+F3 |
+| Find Previous            | Shift+F3 |
+| Find Previous Selected   | Ctrl+Shift+F3 |
 | Goto Document Start      | Ctrl+Home |
 | Goto Document End        | Ctrl+End |
 | Delete word (left)       | Ctrl+Backspace |
@@ -77,8 +81,10 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 |---------|-------------------|
 | Build Solution           | Ctrl+Shift+B |
 | Cut line                 | Ctrl+L |
+| Delete line              | Ctrl+Shift+L |
 | Comment Selection        | Ctrl+K, Ctrl+C |
 | Uncomment Selection      | Ctrl+K, Ctrl+U |
+| Incremental Search       | Ctrl+I |
 | Find usages              | Alt+F7 |
 | Symbol code completion   | Ctrl+Space |
 | Smart code completion    | Ctrl+Shift+Space |
@@ -121,6 +127,7 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Quick Watch              | Shift+F9 |
 | Breakpoints              | Ctrl+Alt+B |
 | Call Stack               | Ctrl+Alt+C |
+| Properties               | Ctrl+Enter |
 
 ##Q-Dir
 | Command | Keyboard shortcut |
