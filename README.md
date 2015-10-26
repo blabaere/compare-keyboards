@@ -38,52 +38,67 @@ Remarks: the model 01 thumbs are assigned by default to modifiers in addition to
 | NISSE (L)   |  76   | Shape seems curvy enough, texture looks good but hard to say  |
 | Ergodox     |  76   | Depends on where you get it / customizable?                   |
 
-# Frequent shortcuts
+# Frequent keys shortcuts
 TODO: record a day of work and write down frequency
 
+## Non-letter keys
+Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace, double quote, left bracket.
+
 ##General
-Copy | Ctrl+C
-Paste | Ctrl+V
-Cut | Ctrl+X
-Show desktop | Win+D
-Run ... | Win+R
-Switch application | Alt+Tab
-Switch tab | Ctrl+Tab
+| Command | Keyboard shortcut |
+|---------|-------------------|
+| Copy | Ctrl+C |
+| Paste | Ctrl+V |
+| Cut | Ctrl+X |
+| Show desktop | Win+D |
+| Run ... | Win+R |
+| Run ... | Win+L |
+| Switch application | Alt+Tab |
+| Switch tab | Ctrl+Tab |
+| Notepad++  | Ctrl+Alt+N |
+| Q-Dir      | Ctrl+Alt+Q |
 
 ##Visual Studio, ReSharper : hurt me plenty !
 
-Symbol code completion | Ctrl+Space
-Smart code completion | Ctrl+Shift+Space
-Import symbol completion | Ctrl+Alt+Space
-Complete statement | Ctrl+Shift+Enter
-Parameter info | Ctrl+P
-Move stuff around | Ctrl+Shift+Alt+Arrow
-Generate code | Alt+Ins
-Go to last edit location | Ctrl+Shift+Backspace
-Go to everything | Ctrl+N
-Go to file member | Ctrl+F12
-Find usages | Alt+F7
-Go to previous usage | Ctrl+Alt+Arrow Up
-Go to next usage | Ctrl+Alt+Arrow Down
-Go to declaration | Ctrl+B
-Go to type of symbol | Ctrl+Shift+T
-Go to implementation | Ctrl+Shift+Alt+B
-Go to base symbols | Ctrl+U
-Go to derived symbols | Ctrl+Alt+B
-Go to usage | Ctrl+Alt+F7
-Quick-fixes | Alt+Enter
-Refactor this | Ctrl+Shift+R
-Rename F2 or | Shift+R
-Move type or static member | F6
-Introduce field | Ctrl+Alt+D
-Code Cleanup | Ctrl+Alt+F
-Run unit tests | Ctrl+T, R
-Debug unit tests | Ctrl+T, D
+| Command | Keyboard shortcut |
+|---------|-------------------|
+|Symbol code completion | Ctrl+Space |
+|Smart code completion | Ctrl+Shift+Space |
+|Import symbol completion | Ctrl+Alt+Space |
+|Complete statement | Ctrl+Shift+Enter |
+|Parameter info | Ctrl+P |
+|Move stuff around | Ctrl+Shift+Alt+Arrow |
+|Generate code | Alt+Ins |
+|Go to last edit location | Ctrl+Shift+Backspace |
+|Go to everything | Ctrl+N |
+|Go to file member | Ctrl+F12 | 
+|Find usages | Alt+F7 |
+|Go to previous usage | Ctrl+Alt+Arrow Up | 
+|Go to next usage | Ctrl+Alt+Arrow Down |
+|Go to declaration | Ctrl+B |
+|Go to type of symbol | Ctrl+Shift+T |
+|Go to implementation | Ctrl+Shift+Alt+B |
+|Go to derived symbols | Ctrl+Alt+B |
+|Go to usage | Ctrl+Alt+F7 |
+|Quick-fixes | Alt+Enter |
+|Refactor this | Ctrl+Shift+R |
+|Rename F2 or | Shift+R |
+|Move type or static member | F6 |
+|Introduce field | Ctrl+Alt+D |
+|Change signature | Ctrl+F6 |
+|Code Cleanup | Ctrl+Alt+F |
+|Run unit tests | Ctrl+T, R |
+|Debug unit tests | Ctrl+T, D |
 
 ##Q-Dir
-Ctrl+Q
-Alt+S
+| Command | Keyboard shortcut |
+|---------|-------------------|
+| Applications | Ctrl+S |
+| Quick links  | Ctrl+Q
+| Focus address bar | Alt+S |
 
 ##Conemu
-Win+number
-Win+everything ...
+| Command | Keyboard shortcut |
+|---------|-------------------|
+| Select tab | Win+number |
+| | Win+everything ... |
