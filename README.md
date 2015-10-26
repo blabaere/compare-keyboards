@@ -50,14 +50,24 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Copy                     | Ctrl+C or Ctrl+Ins (mintty, vim)|
 | Paste                    | Ctrl+V or Shift+Ins (mintty, vim)|
 | Cut                      | Ctrl+X |
+| Undo                     | Ctrl+Z |
+| Redo                     | Ctrl+Y |
+| Find                     | Ctrl+F |
+| Find in Files            | Ctrl+Shift+F |
+| Goto Document Start      | Ctrl+Home |
+| Goto Document End        | Ctrl+End |
 | Delete word (left)       | Ctrl+Backspace |
 | Delete word (right)      | Ctrl+Del |
-| Extend world selection   | Ctrl+Shift+Alt+Arrow |
+| Extend world selection   | Ctrl+Shift+Arrow |
+| Select all               | Ctrl+A |
+| Select rectangle         | Alt+Shift+Arrows |
 | Show desktop             | Win+D |
 | Run ...                  | Win+R |
 | Lock session             | Win+L |
 | Switch application       | Alt+Tab |
 | Switch tab               | Ctrl+Tab |
+| Save                     | Ctrl+S |
+| Save All                 | Ctrl+Shift+S |
 | Notepad++                | Ctrl+Alt+N |
 | Q-Dir                    | Ctrl+Alt+Q |
 
@@ -67,6 +77,9 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 |---------|-------------------|
 | Build Solution           | Ctrl+Shift+B |
 | Cut line                 | Ctrl+L |
+| Comment Selection        | Ctrl+K, Ctrl+C |
+| Uncomment Selection      | Ctrl+K, Ctrl+U |
+| Find usages              | Alt+F7 |
 | Symbol code completion   | Ctrl+Space |
 | Smart code completion    | Ctrl+Shift+Space |
 | Import symbol completion | Ctrl+Alt+Space |
@@ -77,7 +90,6 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Go to last edit location | Ctrl+Shift+Backspace |
 | Go to everything         | Ctrl+N |
 | Go to file member        | Ctrl+F12 | 
-| Find usages              | Alt+F7 |
 | Go to previous usage     | Ctrl+Alt+Arrow Up | 
 | Go to next usage         | Ctrl+Alt+Arrow Down |
 | Go to declaration        | Ctrl+B |
@@ -92,8 +104,23 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Introduce field          | Ctrl+Alt+D |
 | Change signature         | Ctrl+F6 |
 | Code Cleanup             | Ctrl+Alt+F |
+| **TEST ** ||
 | Run unit tests           | Ctrl+T, R |
 | Debug unit tests         | Ctrl+T, D |
+| **DEBUG** ||
+| Start | F5 |
+| Start Without Debugging  | Ctrl+F5 |
+| Stop Debugging           | Shift+F5 |
+| Set Breakpoint           | F9 |
+| Enable Breakpoint        | Ctrl+F9 |
+| Step Into                | F11 |
+| Step Out                 | Shift+F11 |
+| Step Over                | F10 |
+| Locals                   | Ctrl+Alt+V, L |
+| Autos                    | Ctrl+Alt+V, A |
+| Quick Watch              | Shift+F9 |
+| Breakpoints              | Ctrl+Alt+B |
+| Call Stack               | Ctrl+Alt+C |
 
 ##Q-Dir
 | Command | Keyboard shortcut |
