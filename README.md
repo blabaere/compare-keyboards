@@ -75,27 +75,31 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Notepad++                | Ctrl+Alt+N |
 | Q-Dir                    | Ctrl+Alt+Q |
 
-##Visual Studio, ReSharper : hurt me plenty !
-
+##Visual Studio, ReSharper : ULTRA-VIOLENCE !
 | Command | Keyboard shortcut |
 |---------|-------------------|
 | Build Solution           | Ctrl+Shift+B |
+| Symbol code completion   | Ctrl+Space |
+| Smart code completion    | Ctrl+Shift+Space |
+| Import symbol completion | Ctrl+Alt+Space |
+| Quick-fixes              | Alt+Enter |
+| Find usages              | Alt+F7 |
+| Go to last edit location | Ctrl+Shift+Backspace |
+| Go to everything         | Ctrl+N |
+| Parameter info           | Ctrl+P |
 | Cut line                 | Ctrl+L |
+| Go to file member        | Ctrl+F12 | 
+
+##Visual Studio, ReSharper : hurt me plenty !
+| Command | Keyboard shortcut |
+|---------|-------------------|
 | Delete line              | Ctrl+Shift+L |
 | Comment Selection        | Ctrl+K, Ctrl+C |
 | Uncomment Selection      | Ctrl+K, Ctrl+U |
 | Incremental Search       | Ctrl+I |
-| Find usages              | Alt+F7 |
-| Symbol code completion   | Ctrl+Space |
-| Smart code completion    | Ctrl+Shift+Space |
-| Import symbol completion | Ctrl+Alt+Space |
 | Complete statement       | Ctrl+Shift+Enter |
-| Parameter info           | Ctrl+P |
 | Move stuff around        | Ctrl+Shift+Alt+Arrow |
 | Generate code            | Alt+Ins |
-| Go to last edit location | Ctrl+Shift+Backspace |
-| Go to everything         | Ctrl+N |
-| Go to file member        | Ctrl+F12 | 
 | Go to previous usage     | Ctrl+Alt+Arrow Up | 
 | Go to next usage         | Ctrl+Alt+Arrow Down |
 | Go to declaration        | Ctrl+B |
@@ -103,13 +107,13 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Go to implementation     | Ctrl+Shift+Alt+B |
 | Go to derived symbols    | Ctrl+Alt+B |
 | Go to usage              | Ctrl+Alt+F7 |
-| Quick-fixes              | Alt+Enter |
 | Refactor this            | Ctrl+Shift+R |
 | Rename F2 or             | Shift+R |
 | Move type or member      | F6 |
 | Introduce field          | Ctrl+Alt+D |
 | Change signature         | Ctrl+F6 |
 | Code Cleanup             | Ctrl+Alt+F |
+| Properties               | Alt+Enter |
 | **#TEST** ||
 | Run unit tests           | Ctrl+T, R |
 | Debug unit tests         | Ctrl+T, D |
@@ -127,7 +131,6 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Quick Watch              | Shift+F9 |
 | Breakpoints              | Ctrl+Alt+B |
 | Call Stack               | Ctrl+Alt+C |
-| Properties               | Ctrl+Enter |
 
 ##Q-Dir
 | Command | Keyboard shortcut |
