@@ -110,10 +110,10 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Introduce field          | Ctrl+Alt+D |
 | Change signature         | Ctrl+F6 |
 | Code Cleanup             | Ctrl+Alt+F |
-| **TEST ** ||
+| **#TEST** ||
 | Run unit tests           | Ctrl+T, R |
 | Debug unit tests         | Ctrl+T, D |
-| **DEBUG** ||
+| **#DEBUG** ||
 | Start | F5 |
 | Start Without Debugging  | Ctrl+F5 |
 | Stop Debugging           | Shift+F5 |
