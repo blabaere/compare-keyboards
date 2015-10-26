@@ -9,8 +9,8 @@ Here I list some selection criteria that came to my mind, and will use them to e
 
 # Misc criteria
 
-| /   |Model 01|NISSE (L)|NISSE (M)|Ergodox|
-|-----|--------|---------|---------|-------|
+|     |Model 01|NISSE (L)|NISSE (M)|Ergodox|
+|-----|-------:|--------:|--------:|------:|
 |Price|    330$|     420$|     475$|   300$|
 
 # Usual shortcuts
