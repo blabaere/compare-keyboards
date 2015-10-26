@@ -19,7 +19,7 @@ Here I list some selection criteria that came to my mind, and will use them to e
 |      /      | Rank | Comments                               |
 |:------------|:----:|:---------------------------------------|
 | Model 01    | ***  | Perfect arc, outer most key require some stretch. Palm thing may get in the way ?  |
-| NISSE (L)   | ***  | Perfect arc, inner most key goes as deep as the ring finger, seems a bit strange.  |
+| NISSE       | ***  | Perfect arc, inner most key goes as deep as the ring finger, seems a bit strange.  |
 | Ergodox     |  **  | Too far from home pos, several rows. Peope say only two keys per thumb are usable. |
 
 Remarks: the model 01 thumbs are assigned by default to modifiers in addition to space and del, and since it has fewer keys it may be difficult to use the sides one instead.
@@ -28,14 +28,14 @@ Remarks: the model 01 thumbs are assigned by default to modifiers in addition to
 |      /      | Rank | Comments                               |
 |:------------|:----:|:---------------------------------------|
 | Model 01    | ***  | Seems perfect, tears of joy: the pinkie keys are lower: it is shorter than the others!  |
-| NISSE (L)   | ***  | Seems very good, but the Enter and Tab keys are no bigger than the other, strange too.  |
+| NISSE       | ***  | Seems very good, but the Enter and Tab keys are no bigger than the other, strange too.  |
 | Ergodox     |  **  | Seems OK |
 
 # Keys & key caps
 |      /      | Count | Comments                               |
 |:------------|:-----:|:---------------------------------------|
 | Model 01    |  64   | Shape matches finger, texture looks very good                 |
-| NISSE (L)   |  76   | Shape seems curvy enough, texture looks good but hard to say  |
+| NISSE       |  76   | Shape seems curvy enough, texture looks good but hard to say  |
 | Ergodox     |  76   | Depends on where you get it / customizable?                   |
 
 # Frequent keys shortcuts
@@ -47,8 +47,8 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 ##General
 | Command | Keyboard shortcut |
 |---------|-------------------|
-| Copy                     | Ctrl+C or Ctrl+Ins (mintty, vim)|
-| Paste                    | Ctrl+V or Shift+Ins (mintty, vim)|
+| Copy                     | Ctrl+C or Ctrl+Ins (mintty, vim)  |
+| Paste                    | Ctrl+V or Shift+Ins (mintty, vim) |
 | Cut                      | Ctrl+X |
 | Undo                     | Ctrl+Z |
 | Redo                     | Ctrl+Y |
@@ -63,6 +63,8 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Delete word (left)       | Ctrl+Backspace |
 | Delete word (right)      | Ctrl+Del |
 | Extend world selection   | Ctrl+Shift+Arrow |
+| Select to end of line    | Shift+End |
+| Select to start of line  | Shift+Home |
 | Select all               | Ctrl+A |
 | Select rectangle         | Alt+Shift+Arrows |
 | Show desktop             | Win+D |
@@ -89,8 +91,9 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Parameter info           | Ctrl+P |
 | Cut line                 | Ctrl+L |
 | Go to file member        | Ctrl+F12 | 
+| Generate code            | Alt+Ins |
 
-##Visual Studio, ReSharper : hurt me plenty !
+##Visual Studio, ReSharper : Hurt me plenty !
 | Command | Keyboard shortcut |
 |---------|-------------------|
 | Delete line              | Ctrl+Shift+L |
@@ -99,7 +102,6 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Incremental Search       | Ctrl+I |
 | Complete statement       | Ctrl+Shift+Enter |
 | Move stuff around        | Ctrl+Shift+Alt+Arrow |
-| Generate code            | Alt+Ins |
 | Go to previous usage     | Ctrl+Alt+Arrow Up | 
 | Go to next usage         | Ctrl+Alt+Arrow Down |
 | Go to declaration        | Ctrl+B |
