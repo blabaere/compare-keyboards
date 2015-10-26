@@ -47,58 +47,63 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 ##General
 | Command | Keyboard shortcut |
 |---------|-------------------|
-| Copy | Ctrl+C |
-| Paste | Ctrl+V |
-| Cut | Ctrl+X |
-| Show desktop | Win+D |
-| Run ... | Win+R |
-| Lock session | Win+L |
-| Switch application | Alt+Tab |
-| Switch tab | Ctrl+Tab |
-| Notepad++  | Ctrl+Alt+N |
-| Q-Dir      | Ctrl+Alt+Q |
+| Copy                     | Ctrl+C or Ctrl+Ins (mintty, vim)|
+| Paste                    | Ctrl+V or Shift+Ins (mintty, vim)|
+| Cut                      | Ctrl+X |
+| Delete word (left)       | Ctrl+Backspace |
+| Delete word (right)      | Ctrl+Del |
+| Extend world selection   | Ctrl+Shift+Alt+Arrow |
+| Show desktop             | Win+D |
+| Run ...                  | Win+R |
+| Lock session             | Win+L |
+| Switch application       | Alt+Tab |
+| Switch tab               | Ctrl+Tab |
+| Notepad++                | Ctrl+Alt+N |
+| Q-Dir                    | Ctrl+Alt+Q |
 
 ##Visual Studio, ReSharper : hurt me plenty !
 
 | Command | Keyboard shortcut |
 |---------|-------------------|
-|Symbol code completion | Ctrl+Space |
-|Smart code completion | Ctrl+Shift+Space |
-|Import symbol completion | Ctrl+Alt+Space |
-|Complete statement | Ctrl+Shift+Enter |
-|Parameter info | Ctrl+P |
-|Move stuff around | Ctrl+Shift+Alt+Arrow |
-|Generate code | Alt+Ins |
-|Go to last edit location | Ctrl+Shift+Backspace |
-|Go to everything | Ctrl+N |
-|Go to file member | Ctrl+F12 | 
-|Find usages | Alt+F7 |
-|Go to previous usage | Ctrl+Alt+Arrow Up | 
-|Go to next usage | Ctrl+Alt+Arrow Down |
-|Go to declaration | Ctrl+B |
-|Go to type of symbol | Ctrl+Shift+T |
-|Go to implementation | Ctrl+Shift+Alt+B |
-|Go to derived symbols | Ctrl+Alt+B |
-|Go to usage | Ctrl+Alt+F7 |
-|Quick-fixes | Alt+Enter |
-|Refactor this | Ctrl+Shift+R |
-|Rename F2 or | Shift+R |
-|Move type or static member | F6 |
-|Introduce field | Ctrl+Alt+D |
-|Change signature | Ctrl+F6 |
-|Code Cleanup | Ctrl+Alt+F |
-|Run unit tests | Ctrl+T, R |
-|Debug unit tests | Ctrl+T, D |
+| Build Solution           | Ctrl+Shift+B |
+| Cut line                 | Ctrl+L |
+| Symbol code completion   | Ctrl+Space |
+| Smart code completion    | Ctrl+Shift+Space |
+| Import symbol completion | Ctrl+Alt+Space |
+| Complete statement       | Ctrl+Shift+Enter |
+| Parameter info           | Ctrl+P |
+| Move stuff around        | Ctrl+Shift+Alt+Arrow |
+| Generate code            | Alt+Ins |
+| Go to last edit location | Ctrl+Shift+Backspace |
+| Go to everything         | Ctrl+N |
+| Go to file member        | Ctrl+F12 | 
+| Find usages              | Alt+F7 |
+| Go to previous usage     | Ctrl+Alt+Arrow Up | 
+| Go to next usage         | Ctrl+Alt+Arrow Down |
+| Go to declaration        | Ctrl+B |
+| Go to type of symbol     | Ctrl+Shift+T |
+| Go to implementation     | Ctrl+Shift+Alt+B |
+| Go to derived symbols    | Ctrl+Alt+B |
+| Go to usage              | Ctrl+Alt+F7 |
+| Quick-fixes              | Alt+Enter |
+| Refactor this            | Ctrl+Shift+R |
+| Rename F2 or             | Shift+R |
+| Move type or member      | F6 |
+| Introduce field          | Ctrl+Alt+D |
+| Change signature         | Ctrl+F6 |
+| Code Cleanup             | Ctrl+Alt+F |
+| Run unit tests           | Ctrl+T, R |
+| Debug unit tests         | Ctrl+T, D |
 
 ##Q-Dir
 | Command | Keyboard shortcut |
 |---------|-------------------|
-| Applications | Ctrl+S |
-| Quick links  | Ctrl+Q
-| Focus address bar | Alt+S |
+| Applications             | Ctrl+S |
+| Quick links              | Ctrl+Q |
+| Focus address bar        | Alt+S |
 
 ##Conemu
 | Command | Keyboard shortcut |
 |---------|-------------------|
-| Select tab | Win+number |
-| | Win+everything ... |
+| Select tab               | Win+number |
+| All the others           | Win+everything ... |
