@@ -52,7 +52,7 @@ Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace,
 | Cut | Ctrl+X |
 | Show desktop | Win+D |
 | Run ... | Win+R |
-| Run ... | Win+L |
+| Lock session | Win+L |
 | Switch application | Alt+Tab |
 | Switch tab | Ctrl+Tab |
 | Notepad++  | Ctrl+Alt+N |
