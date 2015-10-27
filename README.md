@@ -50,11 +50,13 @@ TODO: record a day of work and write down frequency
 Period, semi-colon, enter, shift (for capital letter) left parenthesis, comma, left brace, double quote, left bracket.
 
 ## Non-letter keys, used frequently
-Tab, Esc
+Tab, Esc,
 
 ## Non-letter keys or symbols that we can get rid-off
 CAPS LOCK (if still there, remap it) £ µ § ¤ ²
 
+## Ideas
+**Quite a few key shortcuts require several modifiers, maybe using a sequence would help in using a keyboard with fewer keys. For example, like in 'Run unit tests': Ctrl+T, R.**
 
 ##General
 | Command | Keyboard shortcut |
