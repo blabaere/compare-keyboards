@@ -38,11 +38,23 @@ Remarks: the model 01 thumbs are assigned by default to modifiers in addition to
 | NISSE       |  76   | Shape seems curvy enough, texture looks good but hard to say  |
 | Ergodox     |  76   | Depends on where you get it / customizable?                   |
 
+# Misc.
+The **model 01 has a built-in mouse** capability, using a modifier and left hand keys.
+The NISSE has a M size, which should make it require less stretch for a lot of combinations.
+An ergodox can also be purchased from [falbatech.pl](http://falbatech.pl/prestashop/index.php), with full hand plate but NO TENTING.
+
 # Frequent keys shortcuts
 TODO: record a day of work and write down frequency
 
-## Non-letter keys
-Dot, semi-colon, enter, shift (for capital letter) left parenthesis, left brace, double quote, left bracket.
+## Non-letter keys, used extremely frequently (several of them each line)
+Period, semi-colon, enter, shift (for capital letter) left parenthesis, comma, left brace, double quote, left bracket.
+
+## Non-letter keys, used frequently
+Tab, Esc
+
+## Non-letter keys or symbols that we can get rid-off
+CAPS LOCK (if still there, remap it) £ µ § ¤ ²
+
 
 ##General
 | Command | Keyboard shortcut |
