@@ -42,12 +42,16 @@ Remarks: the model 01 thumbs are assigned by default to modifiers in addition to
 
 # Misc.
 The **model 01 has a built-in mouse** capability, using a modifier and left hand keys.
+
 The NISSE has a M size, which should make it require less stretch for a lot of combinations.
+
 An ergodox can also be purchased from [falbatech.pl](http://falbatech.pl/prestashop/index.php), with full hand plate but NO TENTING.
 
 **Several shortcuts listed below require several modifiers, maybe using a sequence would help in using a keyboard with fewer keys. For example, like in 'Run unit tests': Ctrl+T, R.**
 
 The 'insert' key is mostly useless per se, but is useful for vim, mintty/zsh, and used in vital ReSharper shortcuts.
+
+The NISSE can 'emulate' several common shortcuts with a FN+key shortcut.
 
 # Frequent keys shortcuts
 TODO: record a day of work and write down frequency.
