@@ -3,7 +3,9 @@
 I want to buy an ergonomic keyboard, and after some research I narrowed down the choice to 3 of them.
 - [Keyboardio - Model 01](http://shop.keyboard.io/)
 - [Esrille − NISSE](http://www.esrille.com/keyboard/)
-- [ErgoDox EZ](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/)
+- [ErgoDox EZ](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/)  
+
+If everything else fail, fallback is [TypeMatrix 2030](http://www.typematrix.com/2030/features.php)
 
 Here I list some selection criteria that came to my mind, and will use them to evaluate the three keyboards.
 
@@ -43,35 +45,37 @@ The **model 01 has a built-in mouse** capability, using a modifier and left hand
 The NISSE has a M size, which should make it require less stretch for a lot of combinations.
 An ergodox can also be purchased from [falbatech.pl](http://falbatech.pl/prestashop/index.php), with full hand plate but NO TENTING.
 
+**Several shortcuts listed below require several modifiers, maybe using a sequence would help in using a keyboard with fewer keys. For example, like in 'Run unit tests': Ctrl+T, R.**
+
+The 'insert' key is mostly useless per se, but is useful for vim, mintty/zsh, and used in vital ReSharper shortcuts.
+
 # Frequent keys shortcuts
-TODO: record a day of work and write down frequency
+TODO: record a day of work and write down frequency.
 
 ## Non-letter keys, used extremely frequently (several of them each line)
 Period, semi-colon, enter, shift (for capital letter) left parenthesis, comma, left brace, double quote, left bracket.
 
 ## Non-letter keys, used frequently
-Tab, Esc,
+Tab, Esc, math operators, $ ^ (for regex).
 
-## Non-letter keys or symbols that we can get rid-off
+## Non-letter keys or symbols that we can get rid of
 CAPS LOCK (if still there, remap it) £ µ § ¤ ²
 
-## Ideas
-**Quite a few key shortcuts require several modifiers, maybe using a sequence would help in using a keyboard with fewer keys. For example, like in 'Run unit tests': Ctrl+T, R.**
+##General (and used often)
+These shortcuts are ubiquitous, so they should be easily accessible and mapping the command to another shortcut is not an option. Anything that appears in both Visual Studio and Notepad++ counts as ubiquitous.
 
-##General
-| Command | Keyboard shortcut |
-|---------|-------------------|
-| Copy                     | Ctrl+C or Ctrl+Ins (mintty, vim)  |
-| Paste                    | Ctrl+V or Shift+Ins (mintty, vim) |
+| Command | Keyboard shortcut | Comment |
+|---------|-------------------|---------|
+| Copy                     | Ctrl+C | Ctrl+_Any letter_ is an obvious one.
+| Paste                    | Ctrl+V | They are here as a reminder that Ctrl is used all the time.
 | Cut                      | Ctrl+X |
 | Undo                     | Ctrl+Z |
 | Redo                     | Ctrl+Y |
 | Find                     | Ctrl+F |
+| Save                     | Ctrl+S |
 | Find in Files            | Ctrl+Shift+F |
 | Find Next                | F3 |
 | Find Next Selected       | Ctrl+F3 |
-| Find Previous            | Shift+F3 |
-| Find Previous Selected   | Ctrl+Shift+F3 |
 | Goto Document Start      | Ctrl+Home |
 | Goto Document End        | Ctrl+End |
 | Delete word (left)       | Ctrl+Backspace |
@@ -80,16 +84,26 @@ CAPS LOCK (if still there, remap it) £ µ § ¤ ²
 | Select to end of line    | Shift+End |
 | Select to start of line  | Shift+Home |
 | Select all               | Ctrl+A |
-| Select rectangle         | Alt+Shift+Arrows |
+| Select rectangle         | Alt+Shift+Arrow |
 | Show desktop             | Win+D |
 | Run ...                  | Win+R |
 | Lock session             | Win+L |
 | Switch application       | Alt+Tab |
 | Switch tab               | Ctrl+Tab |
-| Save                     | Ctrl+S |
+
+##General (but used less often)
+These shortcuts are  either , and should be easily accessible.
+
+| Command | Keyboard shortcut | Comment |
+|---------|-------------------|---------|
 | Save All                 | Ctrl+Shift+S |
-| Notepad++                | Ctrl+Alt+N |
-| Q-Dir                    | Ctrl+Alt+Q |
+| Find Previous            | Shift+F3 |
+| Find Previous Selected   | Ctrl+Shift+F3 |
+| Notepad++                | Ctrl+Alt+N   | Not standard, can be changed
+| Q-Dir                    | Ctrl+Alt+Q   | Not standard, can be changed
+| Change windows password  | Ctrl+Alt+Del | Not used often, but must really work
+| Copy                     | Ctrl+Ins (mintty, vim)  |
+| Paste                    | Shift+Ins (mintty, vim) |
 
 ##Visual Studio, ReSharper : ULTRA-VIOLENCE !
 | Command | Keyboard shortcut |
