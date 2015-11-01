@@ -42,6 +42,8 @@ Remarks: the model 01 thumbs are assigned by default to modifiers in addition to
 
 # Misc.
 The **model 01 has a built-in mouse** capability, using a modifier and left hand keys.
+It is difficult to find out if the palm key of the mode 01 is usable just by looking at pictures.
+The whole experience seems to depend on this.
 
 The NISSE has a M size, which should make it require less stretch for a lot of combinations.
 
@@ -51,7 +53,8 @@ An ergodox can also be purchased from [falbatech.pl](http://falbatech.pl/prestas
 
 The 'insert' key is mostly useless per se, but is useful for vim, mintty/zsh, and used in vital ReSharper shortcuts.
 
-The NISSE can 'emulate' several common shortcuts with a FN+key shortcut.
+The NISSE can 'emulate' several common shortcuts with a FN+key shortcut (this idea can be reused with ergodox).
+The NISSE needs some firmware modifications: replace "CAPS LOCK" by "Ctx Menu", "Ctx Menu" by "Del"
 
 # Frequent keys shortcuts
 TODO: record a day of work and write down frequency.
