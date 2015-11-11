@@ -1,3 +1,5 @@
+run MPLAB X IDE:
+/opt/microchip/mplabx/v3.15/mplab_ide/bin/mplab_ide
 
 | Command                  | Keyboard shortcut | Model 01 | NISSE    | Ergodox  |
 |--------------------------|-------------------|----------|----------|----------|
@@ -36,6 +38,6 @@
 | Go to last edit location | Ctrl+Shift+Backsp |   0      |   **     |   ***    |
 | Go to everything         | Ctrl+N            |   ***    |   **     |   **     |
 | Parameter info           | Ctrl+P            |   ***    |   **     |   **     |
-| Cut line                 | Ctrl+L            |          |   **     |          |
+| Cut line                 | Ctrl+L            |   ***    |   **     |   ***    |
 | Go to file member        | Ctrl+F12          |   **?    |   ***    |   *      |
 | Generate code            | Alt+Ins           |   ?      |   *      |   ***    |
